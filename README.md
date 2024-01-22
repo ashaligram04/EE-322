@@ -16,5 +16,5 @@ Unordered List
 `Code`
 
 ---
-[EE-322 Repo]([https://github.com/ashaligram04/EE-322])
+[EE-322 Repo](https://github.com/ashaligram04/EE-322/tree/main)
 ![alt text](engineering_imagery.jpg)
