@@ -16,5 +16,5 @@ Unordered List
 `Code`
 
 ---
-[EE-322 Repo]([https://www.example.com](https://github.com/ashaligram04/EE-322)https://github.com/ashaligram04/EE-322)
+[EE-322 Repo]([https://github.com/ashaligram04/EE-322])
 ![alt text](engineering_imagery.jpg)
