@@ -1,4 +1,4 @@
-# EE 322
+# EE 322 - Design VI
 **Bold Text**
 *Italic*
 > blockquote
