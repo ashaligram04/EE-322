@@ -1,17 +1,17 @@
 # EE 322 - Design VI
-**Bold Text**
-*Italic*
+**Welcome to my home page!**
+*My name is Atharva Shaligram*
 > blockquote
 
-Ordered List
-1. First item
-2. Second Item
-3. Third Item
+Interests in Electrical Engineering
+1. Robotics/Automation
+2. Electronics/Circuits
+3. Internet of Things
 
-Unordered List
-- First item
-- Second item
-- Third item
+Fun Facts About Myself
+- Third-degree black belt in Karate
+- Enjoy spending time with friends, playing sports, watching movies
+- Like to travel and try new things
 
 `Code`
 
