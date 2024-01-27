@@ -17,4 +17,4 @@ Fun Facts About Myself
 
 ---
 [EE-322 Repo](https://github.com/ashaligram04/EE-322/tree/main)
-![alt text](electrical engineering.jpg)
+![alt text](electrical_engineering.jpg)
