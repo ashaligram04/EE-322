@@ -1,7 +1,7 @@
 # EE 322 - Design VI
-**Welcome to my home page!**
+**Welcome to my Github page!**
 *My name is Atharva Shaligram*
-> blockquote
+> "Code your dreams into reality, for the greatest software is written in the language of persistence and passion"
 
 Interests in Electrical Engineering
 1. Robotics/Automation
