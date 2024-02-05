@@ -1,5 +1,5 @@
 # EE 322 - Design VI
-**Welcome to my Github page!**
+**Welcome to my GitHub page!**
 *My name is Atharva Shaligram*
 > "Code your dreams into reality, for the greatest software is written in the language of persistence and passion"
 
