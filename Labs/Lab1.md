@@ -17,5 +17,5 @@
 
 ## 4-to-1 Multiplexer
 
-![image](Images/Lab1_4to1Multiplexer_Terminal.png)
-![image](Images/Lab1_4to1Multiplexer.png)
+![image](Images/Lab1_4to1_Multiplexer_Terminal.png)
+![image](Images/Lab1_4to1_Multiplexer.png)
