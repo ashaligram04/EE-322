@@ -67,6 +67,6 @@
 
 ![image](Images/Lab2/ping_localhost.png)
 
-### netstat
+## netstat
 
 ***This command shows the network status and can determine amount of traffic on network, shows a list of TCP connections***
