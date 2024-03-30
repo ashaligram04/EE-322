@@ -6,17 +6,17 @@
 ## datetime_example.py
 ![image](Images/Lab3_datetime_example_python.png)
 
-# sun.py
+## sun.py
 ![image](Images/Lab3_sun_python.png)
 
-# coordinates.py
+## coordinates.py
 ![image](Images/Lab3_coordinates_python.png)
 
-# address.py
+## address.py
 ![image](Images/Lab3_address_python.png)
 
-# cpu.py
+## cpu.py
 ![image](Images/Lab3_cpu_python.png)
 
-# documentstats.py
+## documentstats.py
 ![image](Images/Lab3_documentstats_python.png)
