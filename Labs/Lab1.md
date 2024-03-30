@@ -2,20 +2,20 @@
 
 ## Half Adder
 
-![image](Images/Lab1_HalfAdder_Terminal.png)
-![image](Images/Lab1_HalfAdder.png)
+![image](Images/Lab1/HalfAdder_Terminal.png)
+![image](Images/Lab1/HalfAdder.png)
 
 ## Full Adder
 
-![image](Images/Lab1_FullAdder_Terminal.png)
-![image](Images/Lab1_FullAdder.png)
+![image](Images/Lab1/FullAdder_Terminal.png)
+![image](Images/Lab1/FullAdder.png)
 
 ## D Flip-Flop
 
-![image](Images/Lab1_DFlipFlop_Terminal.png)
-![image](Images/Lab1_DFlipFlop.png)
+![image](Images/Lab1/DFlipFlop_Terminal.png)
+![image](Images/Lab1/DFlipFlop.png)
 
 ## 4-to-1 Multiplexer
 
-![image](Images/Lab1_4to1_Multiplexer_Terminal.png)
-![image](Images/Lab1_4to1_Multiplexer.png)
+![image](Images/Lab1/4to1_Multiplexer_Terminal.png)
+![image](Images/Lab1/4to1_Multiplexer.png)
