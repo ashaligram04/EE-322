@@ -1,22 +1,22 @@
 # Lab 3
 
 ## julian.py
-![image](Images/Lab3_Julian_python.png)
+![image](Images/Lab3/Julian_python.png)
 
 ## datetime_example.py
-![image](Images/Lab3_datetime_example_python.png)
+![image](Images/Lab3/datetime_example_python.png)
 
 ## sun.py
-![image](Images/Lab3_sun_python.png)
+![image](Images/Lab3/sun_python.png)
 
 ## coordinates.py
-![image](Images/Lab3_coordinates_python.png)
+![image](Images/Lab3/coordinates_python.png)
 
 ## address.py
-![image](Images/Lab3_address_python.png)
+![image](Images/Lab3/address_python.png)
 
 ## cpu.py
-![image](Images/Lab3_cpu_python.png)
+![image](Images/Lab3/cpu_python.png)
 
 ## documentstats.py
-![image](Images/Lab3_documentstats_python.png)
+![image](Images/Lab3/documentstats_python.png)
