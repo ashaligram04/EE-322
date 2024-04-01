@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 2 - Command Line
 
 ## hostname
 ![image](Images/Lab2/hostname.png)
