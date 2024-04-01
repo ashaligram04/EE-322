@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 3 - Python
 
 ## julian.py
 ![image](Images/Lab3/Julian_python.png)
