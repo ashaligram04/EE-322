@@ -6,7 +6,7 @@
 ## hello-world.js
 ![image](Images/Lab6/Hello_World_Terminal.png)
 
-![image](Images/Lab6/lab6_Hello_World.png)
+![image](Images/Lab6/Hello_World.png)
 
 ## hello.js
 ![image](Images/Lab6/Hello_Terminal.png)
